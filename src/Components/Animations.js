@@ -25,14 +25,14 @@ const Animations = () => {
               </div>
               <div className="small mb-1">Navbar Dropdown Example:</div>
               <nav className="navbar navbar-expand navbar-light bg-light mb-4">
-                <a className="navbar-brand" href="#">
+                <a className="navbar-brand" href="/">
                   Navbar
                 </a>
                 <ul className="navbar-nav ml-auto">
                   <li className="nav-item dropdown">
                     <a
                       className="nav-link dropdown-toggle"
-                      href="#"
+                      href="/"
                       id="navbarDropdown"
                       role="button"
                       data-toggle="dropdown"
@@ -45,14 +45,14 @@ const Animations = () => {
                       className="dropdown-menu dropdown-menu-right animated--grow-in"
                       aria-labelledby="navbarDropdown"
                     >
-                      <a className="dropdown-item" href="#">
+                      <a className="dropdown-item" href="/">
                         Action
                       </a>
-                      <a className="dropdown-item" href="#">
+                      <a className="dropdown-item" href="/">
                         Another action
                       </a>
                       <div className="dropdown-divider"></div>
-                      <a className="dropdown-item" href="#">
+                      <a className="dropdown-item" href="/">
                         Something else here
                       </a>
                     </div>
@@ -82,14 +82,14 @@ const Animations = () => {
               </div>
               <div className="small mb-1">Navbar Dropdown Example:</div>
               <nav className="navbar navbar-expand navbar-light bg-light mb-4">
-                <a className="navbar-brand" href="#">
+                <a className="navbar-brand" href="/">
                   Navbar
                 </a>
                 <ul className="navbar-nav ml-auto">
                   <li className="nav-item dropdown">
                     <a
                       className="nav-link dropdown-toggle"
-                      href="#"
+                      href="/"
                       id="navbarDropdown"
                       role="button"
                       data-toggle="dropdown"
@@ -102,14 +102,14 @@ const Animations = () => {
                       className="dropdown-menu dropdown-menu-right animated--fade-in"
                       aria-labelledby="navbarDropdown"
                     >
-                      <a className="dropdown-item" href="#">
+                      <a className="dropdown-item" href="/">
                         Action
                       </a>
-                      <a className="dropdown-item" href="#">
+                      <a className="dropdown-item" href="/">
                         Another action
                       </a>
                       <div className="dropdown-divider"></div>
-                      <a className="dropdown-item" href="#">
+                      <a className="dropdown-item" href="/">
                         Something else here
                       </a>
                     </div>
@@ -132,13 +132,13 @@ const Animations = () => {
                   className="dropdown-menu animated--fade-in"
                   aria-labelledby="dropdownMenuButton"
                 >
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/">
                     Action
                   </a>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/">
                     Another action
                   </a>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/">
                     Something else here
                   </a>
                 </div>

@@ -14,7 +14,7 @@ const DashboardBody = () => {
               <div className="dropdown no-arrow">
                 <a
                   className="dropdown-toggle"
-                  href="#"
+                  href="/"
                   role="button"
                   id="dropdownMenuLink"
                   data-toggle="dropdown"
@@ -28,14 +28,14 @@ const DashboardBody = () => {
                   aria-labelledby="dropdownMenuLink"
                 >
                   <div className="dropdown-header">Dropdown Header:</div>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/">
                     Action
                   </a>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/">
                     Another action
                   </a>
                   <div className="dropdown-divider"></div>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/">
                     Something else here
                   </a>
                 </div>
@@ -61,7 +61,7 @@ const DashboardBody = () => {
               <div className="dropdown no-arrow">
                 <a
                   className="dropdown-toggle"
-                  href="#"
+                  href="/"
                   role="button"
                   id="dropdownMenuLink"
                   data-toggle="dropdown"
@@ -75,14 +75,14 @@ const DashboardBody = () => {
                   aria-labelledby="dropdownMenuLink"
                 >
                   <div className="dropdown-header">Dropdown Header:</div>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/">
                     Action
                   </a>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/">
                     Another action
                   </a>
                   <div className="dropdown-divider"></div>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/">
                     Something else here
                   </a>
                 </div>
@@ -268,13 +268,13 @@ const DashboardBody = () => {
               </div>
               <p>
                 Add some quality, svg illustrations to your project courtesy of{" "}
-                <a target="_blank" rel="nofollow" href="https://undraw.co/">
+                <a  href="https://undraw.co/">
                   unDraw
                 </a>
                 , a constantly updated collection of beautiful svg images that
                 you can use completely free and without attribution!
               </p>
-              <a target="_blank" rel="nofollow" href="https://undraw.co/">
+              <a  href="https://undraw.co/">
                 Browse Illustrations on unDraw &rarr;
               </a>
             </div>
