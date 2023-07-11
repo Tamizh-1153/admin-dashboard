@@ -1,7 +1,6 @@
 import { useState } from "react"
 import "./App.css"
 import Content from "./Components/Content"
-import ScrollToTop from "./Components/ScrollToTop"
 import Sidebar from "./Components/Sidebar"
 
 function App() {
